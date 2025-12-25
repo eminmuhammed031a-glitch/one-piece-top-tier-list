@@ -1,0 +1,130 @@
+﻿body{
+    background-color:cadetblue;
+}
+.kutu{ 
+    clear:both;
+    margin-top:20px;
+    background-color:aqua;
+    width:270px;
+    height:80px;
+    border-radius:15px;
+    left:300px;
+    position:absolute;
+    
+}
+.kutu:hover{
+    background-color:red;
+}
+.kutu img{
+    width:70px;
+    height:70px;
+    border-radius:35px;
+    margin:5px;
+    position:absolute;
+    left:193px;
+}
+.kutu2{ 
+    clear:both;
+    margin-top:120px;
+    background-color:aqua;
+    width:270px;
+    height:80px;
+    border-radius:15px;
+    left:300px;
+    position:absolute;
+    
+}
+.kutu2:hover{
+    background-color:red;
+}
+.kutu2 img{
+    width:70px;
+    height:70px;
+    border-radius:35px;
+    margin:5px;
+    position:absolute;
+    left:193px;
+}
+.kutu3{ 
+    clear:both;
+    margin-top:220px;
+    background-color:aqua;
+    width:270px;
+    height:80px;
+    border-radius:15px;
+    left:300px;
+    position:absolute;
+    
+}
+.kutu3:hover{
+    background-color:red;
+}
+.kutu3 img{
+    width:70px;
+    height:70px;
+    border-radius:35px;
+    margin:5px;
+    position:absolute;
+    left:193px;
+    
+}
+.kutu4{ 
+    clear:both;
+    margin-top:320px;
+    background-color:aqua;
+    width:270px;
+    height:80px;
+    border-radius:15px;
+    left:300px;
+    position:absolute;
+    
+}
+.kutu4:hover{
+    background-color:red;
+}
+.kutu4 img{
+    width:70px;
+    height:70px;
+    border-radius:35px;
+    margin:5px;
+    position:absolute;
+    left:193px;
+    
+}
+.kutu5{ 
+    clear:both;
+    margin-top:420px;
+    background-color:aqua;
+    width:270px;
+    height:80px;
+    border-radius:15px;
+    left:300px;
+    position:absolute;
+    
+}
+.kutu5:hover{
+    background-color:red;
+}
+.kutu5 img{
+    width:70px;
+    height:70px;
+    border-radius:35px;
+    margin:5px;
+    position:absolute;
+    left:193px;
+    
+}
+.baslik1{
+    padding-top:5px;
+    color:black;
+    float:left;
+    position:absolute;
+    left:30px;
+}
+.baslik2{
+    padding-top:40px;
+    color:black;
+    float:left;
+    position:absolute;
+    left:40px;
+}
