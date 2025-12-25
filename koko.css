@@ -127,4 +127,24 @@
     float:left;
     position:absolute;
     left:40px;
+
 }
+.kutu6 {
+    
+    margin-top: -10px;
+    background-color: forestgreen;
+    width: 200px;
+    height: 1000px;
+    left: 10px;
+    
+    position: absolute;
+    
+}
+.kutu6 img{
+    width:180px;
+    height:900px;
+    border-radius:35px;
+    margin:5px;
+    position:absolute;
+    left:5px;
+}    
